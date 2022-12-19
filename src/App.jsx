@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-    <GlobalStyle />
+      <GlobalStyle />
       <Navbar />
       <Outlet />
     </>
